@@ -657,7 +657,7 @@ if __name__ == '__main__':
     api_hash = 'xxx'
     phone = "86xxxxxxxxx"
     channel = 'https://t.me/PandaGroovePG'
-    username = 'fish2018' # github username
+    username = 'lyliupeng' # github username
     repo = 'PG' # github repo
     token = 'xxxxx' # github token
     local_target = 'p' # zip解压提供在线接口的目录
